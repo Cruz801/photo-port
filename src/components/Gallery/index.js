@@ -14,3 +14,4 @@ function Gallery({ currentCategory }) {
 }
 
 export default Gallery;
+
